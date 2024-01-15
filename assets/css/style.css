@@ -5,6 +5,10 @@
 /**
  * copyright 2022 codewithsadee
  */
+.img-cover {
+  max-width: 100%;
+  height: auto;
+}
 
 
 
